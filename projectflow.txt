@@ -4,4 +4,5 @@
 4. Create a "ci.yaml' file under "workflows" folder.
 5. Write the code for "ci.yaml"
 6. Create _test.py file and write the code in it.
-7. 
+7. git add-commit-push
+8. After pushing everything ti Github, go to Github Actions and check if the CI is implemented or not.
